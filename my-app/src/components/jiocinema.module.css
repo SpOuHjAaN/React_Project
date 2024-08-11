@@ -1,0 +1,108 @@
+/* Existing styles for Jiocinema series cards */
+.card {
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+                rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+
+img {
+    width: 100%;
+}
+
+.card-content {
+    padding: 1.2rem 1.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.card-heading {
+    margin-bottom: 3.2rem;
+}
+
+.super_hit {
+    background-color: chartreuse;
+}
+
+.average {
+    background-color: burlywood;
+}
+
+.rating {
+    padding: 0.3rem 1.8rem;
+    color: black;
+    margin-left: 1.2rem;
+    border-radius: 100rem;
+    -webkit-border-radius: 100rem;
+    -moz-border-radius: 100rem;
+    -ms-border-radius: 100rem;
+    -o-border-radius: 100rem;
+}
+
+/* Updated styles for the Login form */
+.loginBackground {
+    background-color: #27728d; /* Light gray background color for the whole page */
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem; /* Padding to ensure some spacing around the container */
+}
+
+.loginContainer {
+    max-width: 400px;
+    width: 100%;
+    padding: 2rem;
+    background-color: #beef39; /* White background for the form */
+    border-radius: 12px; /* Slightly more rounded corners */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Slightly larger shadow for better depth */
+    display: flex;
+    flex-direction: column; /* Keeps the fields stacked vertically */
+}
+
+.loginContainer h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 1.6rem;
+    color: #333; /* Darker text color for better readability */
+}
+
+.loginContainer form {
+    display: flex;
+    flex-direction: column; /* Keeps form elements stacked vertically */
+    gap: 1.2rem; /* Space between form fields */
+}
+
+.loginContainer form div {
+    display: flex;
+    flex-direction: column; /* Keeps label and input stacked vertically */
+}
+
+.loginContainer label {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    color: #555; /* Slightly lighter text color for labels */
+}
+
+.loginContainer input {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 6px; /* Rounded corners for input fields */
+    font-size: 1rem;
+    box-sizing: border-box; /* Ensures padding is included in the element's total width and height */
+}
+
+.loginContainer button {
+    padding: 1rem;
+    background-color: #e95ab0;
+    color: white;
+    border: none;
+    border-radius: 6px; /* Rounded corners for the button */
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.loginContainer button:hover {
+    background-color: #9f0a7f;
+}

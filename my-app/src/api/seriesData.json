@@ -1,0 +1,54 @@
+
+[
+    {
+      "name": "Asur",
+      "id": "asur",
+      "img_url": "http://localhost:5173/img/Asur.jpg",
+      "rating": "10",
+      "description": "Set against the backdrop of the mystical city of Varanasi, Asur follows Nikhil Nair, a forensic-expert-turned-teacher, who returns to his roots at the Central Bureau of Investigation, and along with his former mentor Dhananjay Rajpoot, finds himself caught in a cat and mouse game with a brutal serial killer.",
+      "cast": ["Arshad Warsi",  "Abhisek Chauhan",  "Barun Sobti"],
+      "genre": ["Suspense", "Thriller"],
+      "watch_url": "https://www.jiocinema.com/tv-shows/asur/3500240"
+    },
+    {
+      "name": "Apaharan",
+      "id": "apaharan",
+      "img_url": "http://localhost:5173/img/Apharan.jpg",
+      "rating": "8.3",
+      "description": "The story follows a cop 'Rudra' who was falsely accused and ends up in jail for 3 years. The plot is all about the mystery of the murder of a kidnapped girl. Season 2 revolves around Rudra navigating his professional duties with his personal life at stake.",
+      "cast": ["Arunoday Singh",  "Snehil Dixit Mehera",  "Nidhi Singh"],
+      "genre": ["Series",  "Suspense",  "Thriller"],
+      "watch_url": "https://www.jiocinema.com/videos/rudra-srivastava-returns/3441981"
+    },
+    {
+      "name": "Udaariyan",
+      "id": "udaariyan",
+      "img_url": "http://localhost:5173/img/udaariyaan.jpg",
+      "rating": "8.2",
+      "description": "A lovely love story.",
+      "cast": ["Chetna Singh",  "Sarab Haniya",  "Meher"],
+      "genre": ["Action", "Romantic", "Drama"],
+      "watch_url": "https://www.jiocinema.com/tv-shows/udaariyaan/3499475"
+    },
+    {
+      "name": "Bandon Mein Tha Dum!",
+      "id": "bandon mein tha dum!",
+      "img_url": "http://localhost:5173/img/Bando main tha dum.jpeg",
+      "rating": "8.3",
+      "description": "Witness the greatest fightback for the Boreder-Gavasker-Trophy.",
+      "cast": ["Ajyanka Rahane",  "Rishab Pant",  "Mohammad Siraj"],
+      "genre": ["Action", "Cricket", "Show"],
+      "watch_url": "https://www.jiocinema.com/sports/bandon-mein-tha-dum/3500245"
+    },
+    {
+      "name": "London Files",
+      "id": "london files",
+      "img_url": "http://localhost:5173/img/London files.jpeg",
+      "rating": "8.6",
+      "description": "Indian crime thriller webseries.",
+      "cast": ["Sagar Arya",  "Arjun Rampal",  "Nisha Aaliya"],
+      "genre": ["Thriller", "Crime", "Suspense"],
+      "watch_url": "https://www.jiocinema.com/tv-shows/london-files/3500257"
+    }
+  ]
+  
